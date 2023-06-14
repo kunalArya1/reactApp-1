@@ -10,7 +10,7 @@ export default function Home() {    // function component
 
   setInterval(() => {
     
-    
+    const a = new Date().toLocaleTimeString();
   }, 1000);
 
 
